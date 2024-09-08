@@ -18,6 +18,7 @@ namespace OrtakCalisma_NN.Controllers
             return View();
         }
 
+
         public IActionResult Privacy()
         {
             return View();
